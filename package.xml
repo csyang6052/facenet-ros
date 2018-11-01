@@ -3,9 +3,9 @@
   <name>facenet</name>
   <version>0.0.1</version>
   <description>FaceNet face recognition</description>
-  <maintainer email="raphaelchang1227@gmail.com">Raphael Chang</maintainer>
+  <maintainer email="csyang6052@gmail.com">CS Yang</maintainer>
   <license>MIT</license>
-  <url type="website">http://github.com/raphaelchang/facenet-ros</url>
+  <url type="website">http://github.com/csyang6052/facenet-ros</url>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rospy</build_depend>
   <build_depend>std_msgs</build_depend>
